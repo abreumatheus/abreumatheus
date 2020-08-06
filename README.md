@@ -34,6 +34,7 @@
 ## 📱 Find me:
 
 [<img align="left" alt="matheusabreu.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="abreucodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Matheus Abreu| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="matheusabreu.jpeg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -41,7 +42,12 @@
 <br />
 <br />
 
-<img align="left" alt="abreumatheus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=abreumatheus&show_icons=true&theme=dark" />
+<a href="#">
+    <img align="left" alt="abreumatheus' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreumatheus&show_icons=true&theme=dark" />
+</a>
+<a href="#">
+    <img align="left" alt="abreumatheus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=abreumatheus&show_icons=true&theme=dark" />
+</a>
 
 [website]: https://matheusabreu.com.br
 [twitter]: https://twitter.com/abreucodes
