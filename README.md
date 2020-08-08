@@ -50,5 +50,5 @@
 
 [website]: https://matheusabreu.com.br
 [twitter]: https://twitter.com/abreucodes
-[instagram]: https://instagram.com/matheusabreu.jpeg
+[instagram]: https://instagram.com/matheusabreu.jpg
 [linkedin]: https://linkedin.com/in/matheuspsabreu
