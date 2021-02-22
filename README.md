@@ -3,8 +3,8 @@
 ## I'm a Developer, Video Editor and (sometimes) a Photographer :)
 
 - 🍺  I’m currently working at [**olist**](https://github.com/olist) as a Python Dev and Analyst.
-- 🌱  I’m currently learning React and React Native!
-- 🏁  2020 Goals: Contribute more to Open Source projects.
+- 🌱  I’m currently learning Django and DRF!
+- 🏁  2021 Goals: Contribute more to Open Source projects.
 - ⚡  Fun fact: I love music, audio gear and SimRacing.
 
 ## 🔧 Technologies
