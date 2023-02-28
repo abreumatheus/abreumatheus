@@ -4,7 +4,7 @@
 
 - 💜  I’m currently working at [**Nubank**](https://github.com/nubank) as a Software Engineer.
 - 🌱  I’m currently learning Clojure and Rust!
-- 🏁  2022 Goals: Contribute more to Open Source projects.
+- 🏁  2023 Goals: Get better at algorithms.
 - ⚡  Fun fact: I love music, audio gear and skateboarding.
 
 ## 🔧 Technologies
